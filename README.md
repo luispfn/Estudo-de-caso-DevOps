@@ -47,5 +47,5 @@ Em Andamento
 Este arquivo é licenciado a todos os colaboradores da empresa Synkar sobre o domínio da Synkar Autonomous.
 Copyright © 2019-2023 Synkar Autonomous. Todos os direitos reservados.
 
-![Imagem de produto da Empresa](![image](https://user-images.githubusercontent.com/128197228/227796794-6a6fa307-4c33-4df3-a0a6-f878038220e0.png)
+
 
