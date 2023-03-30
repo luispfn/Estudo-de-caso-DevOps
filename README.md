@@ -3,7 +3,7 @@
 ![Imagem de capa da empresa](https://user-images.githubusercontent.com/128197345/227778131-27a82ba7-c1fb-4468-ac85-dbd4dc0e6452.jpg)
 
 ## :clipboard: Descrição
-A empresa de robótica e veículos autônomos, Synkar, está enfrentando um problema na produção do software dos seus veículos automatizados, gerando uma escassez na 
+A empresa de robótica e veículos autônomos, Synkar, está enfrentando um problema na produção do software dos seus veículos automatizados “Robot as a Services” (RaaS), gerando uma escassez na 
 produção frente a uma demanda do mercado emergente que utiliza o robô para entrega em locais remotos visando atender a populção de maior idade e empresas que querem 
 automatizar seu sistema de entrega. Sendo assim, a empresa decidiu adotar as práticas de DevOps para melhorar e agilizar a produção dos softwares. 
 
